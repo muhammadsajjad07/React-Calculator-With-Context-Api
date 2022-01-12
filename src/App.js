@@ -58,14 +58,12 @@ function App() {
   
     setCalculateEvent(output)
 
-    // .replace(/^0+/, "")
   }
   useEffect(() => {
     let bool = false
     try {
       var operators = ["+", "-", "*", "/"];
 
-      // var str = '0400+0500+0300 *900'
       var list = inputNumber.split("").map(item => {
         if (operators.includes(item)) {
           return "-"
