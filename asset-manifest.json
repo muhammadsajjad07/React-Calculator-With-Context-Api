@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Calculator-With-Context-Api/static/css/main.b06c18cd.css",
+    "main.js": "/React-Calculator-With-Context-Api/static/js/main.9c04e92e.js",
+    "static/media/backspace.png": "/React-Calculator-With-Context-Api/static/media/backspace.f97467132cf8fdbbf8cf.png",
+    "index.html": "/React-Calculator-With-Context-Api/index.html",
+    "main.b06c18cd.css.map": "/React-Calculator-With-Context-Api/static/css/main.b06c18cd.css.map",
+    "main.9c04e92e.js.map": "/React-Calculator-With-Context-Api/static/js/main.9c04e92e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06c18cd.css",
+    "static/js/main.9c04e92e.js"
+  ]
+}
