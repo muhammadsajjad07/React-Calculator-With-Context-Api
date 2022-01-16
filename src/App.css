@@ -1,0 +1,66 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calculator-card{
+    background: #243441;
+    padding: 20px;
+    border-radius: 25px;
+    width: 320px;
+}
+
+
+.input-field{
+    text-align: end;
+    display: block;
+    outline: none;
+    color: #6b7881;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    caret-color: white;
+    width: 100%;
+    font-size: 24px;
+
+}
+.answer-field{
+    color: white;
+    font-size: 50px;
+    text-align: end;
+}
+
+.numeric-button{
+    color: #6b7881;
+
+}
+.operation-button{
+    
+    color: #ed802e
+}
+.operation-button img{
+    height: 20px;
+    width: 20px;
+}
+.calculator-row{
+display: flex;
+}
+
+
+.calculator-row button {
+    width: 25%;
+    box-shadow: 0px 2px 8px -3px #6b788169;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
